@@ -64,6 +64,7 @@ The OSI model has 7 layers, and when you create a simple network stack, you will
 
 **Features:**
 
+- Develop User Interface in C++.
 - Create a simple application protocol (e.g., a text-based application like HTTP, FTP, or a custom protocol).
 - Send/receive data using a custom application layer protocol.
 - Display network communications in a human-readable format (like a log or console output).
